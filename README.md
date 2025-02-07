@@ -25,7 +25,7 @@ Select * from payment   : we can write any code in between
 <https://www.google.com/>  : This is also a link  
 https://www.google.com/  : This is also a link 
 
-![This is a image]()  
+![This is a image](./image/Select-Query.png)  
 
 >  hello there  
 >  how are you  
